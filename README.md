@@ -5,7 +5,8 @@ My first practice with chrome extensions. Script to remind myself not to consume
 
 You can customize this extension to target any URL you want and to make alerts in different contexts. To try it out, clone and unzip the package and then follow the instructions to load an unpacked chrome extension: 
 
-1. Open the Extension Management page by navigating to![](images/1.png)	
+1. Open the Extension Management page by navigating to
+   ![](images/1.png)	
 
    - The Extension Management page can also be opened by clicking on the Chrome menu, hovering over More Tools then selecting Extensions
 
