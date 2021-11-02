@@ -7,7 +7,7 @@ You can customize this extension to target any URL you want and to make alerts i
 
 1. Open the Extension Management page by navigating to
    
-   [![chrome://extensions/](images/1.png)](chrome://extensions/)	
+   <a href="chrome://extensions/">  <img src="images/1.png" alt=""></a>
    
    - The Extension Management page can also be opened by clicking on the Chrome menu, hovering over More Tools then selecting Extensions
    
